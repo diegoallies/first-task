@@ -145,15 +145,14 @@ p {
 }
 
 .htmlh {
-    background-color: #252526;
+    background-color: #252526ce;
     padding: 50px;
-    border-right: 2px inset;
     width: 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     margin-left: 50%;
     margin-top: 10px;
-    height: 300px;
+    height: 282px;
 }
 
 .home-text {
@@ -165,14 +164,13 @@ p {
 }
 
 .cssh {
-    background-color: #252526;
+    background-color: #252526ce;
     padding: 50px;
-    border-right: 2px inset;
     width: 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     margin-top: 30px;
-    height: 300px;
+    height: 282px;
 }
 
 h1 {
