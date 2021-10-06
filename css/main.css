@@ -120,6 +120,7 @@ q {
 
 p {
     text-align: center;
+    overflow: hidden;
 
 }
 
@@ -176,3 +177,5 @@ p {
 h1 {
     color: white;
 }
+
+p {}
